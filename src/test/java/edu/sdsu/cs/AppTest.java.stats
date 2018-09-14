@@ -1,0 +1,52 @@
+Longest Line in File: 42
+Average line length: 13
+Number of unique tokens: 28
+Total tokens: 35
+
+Top 10 most occurring tokens (case-sensitive)
+1.	2	import
+2.	2	/**
+3.	2	*
+4.	2	*/
+5.	2	public
+6.	2	{
+7.	2	}
+8.	1	package
+9.	1	edu.sdsu.cs;
+10.	1	static
+
+Top 10 least occurring tokens (case-sensitive)
+1.	1	package
+2.	1	edu.sdsu.cs;
+3.	1	static
+4.	1	org.junit.Assert.assertTrue;
+5.	1	org.junit.Test;
+6.	1	Unit
+7.	1	test
+8.	1	for
+9.	1	simple
+10.	1	App.
+
+Top 10 most occurring tokens (case-insensitive)
+1.	2	import
+2.	2	/**
+3.	2	*
+4.	2	test
+5.	2	*/
+6.	2	public
+7.	2	{
+8.	2	}
+9.	1	package
+10.	1	edu.sdsu.cs;
+
+Top 10 least occurring tokens (case-insensitive)
+1.	1	package
+2.	1	edu.sdsu.cs;
+3.	1	static
+4.	1	org.junit.assert.asserttrue;
+5.	1	org.junit.test;
+6.	1	unit
+7.	1	for
+8.	1	simple
+9.	1	app.
+10.	1	class

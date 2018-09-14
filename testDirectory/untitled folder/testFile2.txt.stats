@@ -1,0 +1,52 @@
+Longest Line in File: 26
+Average line length: 7
+Number of unique tokens: 19
+Total tokens: 62
+
+Top 10 most occurring tokens (case-sensitive)
+1.	13	c
+2.	12	A
+3.	11	a
+4.	7	b
+5.	3	flf
+6.	2	aa
+7.	2	g
+8.	1	weqweqweqwe
+9.	1	bqwdqweqw
+10.	1	sadasd
+
+Top 10 least occurring tokens (case-sensitive)
+1.	1	weqweqweqwe
+2.	1	bqwdqweqw
+3.	1	sadasd
+4.	1	asdasd
+5.	1	ccccc
+6.	1	f
+7.	1	r
+8.	1	t
+9.	1	y
+10.	1	fjfkf
+
+Top 10 most occurring tokens (case-insensitive)
+1.	23	a
+2.	13	c
+3.	7	b
+4.	3	aa
+5.	3	flf
+6.	2	g
+7.	1	weqweqweqwe
+8.	1	bqwdqweqw
+9.	1	sadasd
+10.	1	asdasd
+
+Top 10 least occurring tokens (case-insensitive)
+1.	1	weqweqweqwe
+2.	1	bqwdqweqw
+3.	1	sadasd
+4.	1	asdasd
+5.	1	ccccc
+6.	1	f
+7.	1	r
+8.	1	t
+9.	1	y
+10.	1	fjfkf

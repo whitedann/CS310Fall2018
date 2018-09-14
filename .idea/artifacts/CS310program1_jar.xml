@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CS310program1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CS310program1_jar</output-path>
+    <root id="archive" name="CS310program1.jar">
+      <element id="module-output" name="CS310program1" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,52 @@
+Longest Line in File: 60
+Average line length: 39
+Number of unique tokens: 10
+Total tokens: 19
+
+Top 10 most occurring tokens (case-sensitive)
+1.	5	hello
+2.	4	ipsum
+3.	2	amet
+4.	2	heloo
+5.	1	Lorem
+6.	1	dolor
+7.	1	sit
+8.	1	consectetur
+9.	1	adipiscing
+10.	1	elit.
+
+Top 10 least occurring tokens (case-sensitive)
+1.	1	Lorem
+2.	1	dolor
+3.	1	sit
+4.	1	consectetur
+5.	1	adipiscing
+6.	1	elit.
+7.	2	amet
+8.	2	heloo
+9.	4	ipsum
+10.	5	hello
+
+Top 10 most occurring tokens (case-insensitive)
+1.	5	hello
+2.	4	ipsum
+3.	2	amet
+4.	2	heloo
+5.	1	lorem
+6.	1	dolor
+7.	1	sit
+8.	1	consectetur
+9.	1	adipiscing
+10.	1	elit.
+
+Top 10 least occurring tokens (case-insensitive)
+1.	1	lorem
+2.	1	dolor
+3.	1	sit
+4.	1	consectetur
+5.	1	adipiscing
+6.	1	elit.
+7.	2	amet
+8.	2	heloo
+9.	4	ipsum
+10.	5	hello
